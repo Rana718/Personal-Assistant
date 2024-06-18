@@ -1,0 +1,13 @@
+wolframalpha
+pyttsx3
+SpeechRecognition
+wikipedia-api
+pyaudio
+pyjokes
+winshell
+requests
+pywin32
+google-generativeai
+IPython
+googletrans==4.0.0-rc1
+gtts
